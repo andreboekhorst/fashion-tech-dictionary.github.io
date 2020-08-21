@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.efc8f873.chunk.css",
-    "main.js": "/static/js/main.d625134b.chunk.js",
-    "main.js.map": "/static/js/main.d625134b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.44f88206.js",
-    "runtime-main.js.map": "/static/js/runtime-main.44f88206.js.map",
-    "static/js/2.7903006b.chunk.js": "/static/js/2.7903006b.chunk.js",
-    "static/js/2.7903006b.chunk.js.map": "/static/js/2.7903006b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.6308ef925a0f4937bccdcdce190845c4.js": "/precache-manifest.6308ef925a0f4937bccdcdce190845c4.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.efc8f873.chunk.css.map": "/static/css/main.efc8f873.chunk.css.map",
-    "static/js/2.7903006b.chunk.js.LICENSE.txt": "/static/js/2.7903006b.chunk.js.LICENSE.txt",
-    "static/media/404.gif": "/static/media/404.a4762f0d.gif",
-    "static/media/App.css": "/static/media/x.3c9e1c60.svg",
-    "static/media/cross.svg": "/static/media/cross.470d543b.svg",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-    "static/media/search.svg": "/static/media/search.de36bd40.svg"
+    "main.css": "./fashion-tech-dictionary.github.io/static/css/main.fa47b431.chunk.css",
+    "main.js": "./fashion-tech-dictionary.github.io/static/js/main.2386d063.chunk.js",
+    "main.js.map": "./fashion-tech-dictionary.github.io/static/js/main.2386d063.chunk.js.map",
+    "runtime-main.js": "./fashion-tech-dictionary.github.io/static/js/runtime-main.85efd9a8.js",
+    "runtime-main.js.map": "./fashion-tech-dictionary.github.io/static/js/runtime-main.85efd9a8.js.map",
+    "static/js/2.7903006b.chunk.js": "./fashion-tech-dictionary.github.io/static/js/2.7903006b.chunk.js",
+    "static/js/2.7903006b.chunk.js.map": "./fashion-tech-dictionary.github.io/static/js/2.7903006b.chunk.js.map",
+    "index.html": "./fashion-tech-dictionary.github.io/index.html",
+    "precache-manifest.0d674f929450b22edd43f5b20c2e49b0.js": "./fashion-tech-dictionary.github.io/precache-manifest.0d674f929450b22edd43f5b20c2e49b0.js",
+    "service-worker.js": "./fashion-tech-dictionary.github.io/service-worker.js",
+    "static/css/main.fa47b431.chunk.css.map": "./fashion-tech-dictionary.github.io/static/css/main.fa47b431.chunk.css.map",
+    "static/js/2.7903006b.chunk.js.LICENSE.txt": "./fashion-tech-dictionary.github.io/static/js/2.7903006b.chunk.js.LICENSE.txt",
+    "static/media/404.gif": "./fashion-tech-dictionary.github.io/static/media/404.a4762f0d.gif",
+    "static/media/App.css": "./fashion-tech-dictionary.github.io/static/media/x.3c9e1c60.svg",
+    "static/media/cross.svg": "./fashion-tech-dictionary.github.io/static/media/cross.470d543b.svg",
+    "static/media/logo.svg": "./fashion-tech-dictionary.github.io/static/media/logo.5d5d9eef.svg",
+    "static/media/search.svg": "./fashion-tech-dictionary.github.io/static/media/search.de36bd40.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.44f88206.js",
+    "static/js/runtime-main.85efd9a8.js",
     "static/js/2.7903006b.chunk.js",
-    "static/css/main.efc8f873.chunk.css",
-    "static/js/main.d625134b.chunk.js"
+    "static/css/main.fa47b431.chunk.css",
+    "static/js/main.2386d063.chunk.js"
   ]
 }
