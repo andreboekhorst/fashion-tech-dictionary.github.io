@@ -1,7 +1,7 @@
 {
   "name": "fashion-dictionary-frontend",
   "version": "0.1.0",
-  "homepage": "./",
+  "homepage": "./fashion-tech-dictionary.github.io/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
